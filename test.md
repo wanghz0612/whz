@@ -4,4 +4,4 @@
 
 [谷歌](http://www.google.com/)
 
-see README[here](whz/README.md)
+see README[here](./README.md)
