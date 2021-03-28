@@ -6,7 +6,7 @@
 
 see README→[here](./README.md)
 
-see pi→[here](./58031639_p0.jpg)
+see picture→[here](./58031639_p0.jpg)
 
 ![github](https://img1.baidu.com/it/u=4253182154,1533149835&fm=26&fmt=auto&gp=0.jpg)
 
